@@ -1,0 +1,17 @@
+﻿Build started 12/28/2021 5:03:00 PM.
+     1>Project "D:\one drive\OneDrive - Washington University in St. Louis\Research\experiment data\POC_PET\Calibration\sort_group\energy_discrimination\energy_discrimination.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt energy_discrimination.cpp
+         energy_discrimination.cpp
+     1>d:\one drive\onedrive - washington university in st. louis\research\experiment data\poc_pet\calibration\sort_group\energy_discrimination\energy_discrimination.cpp(9): warning C4103: 'd:\one drive\onedrive - washington university in st. louis\research\experiment data\poc_pet\calibration\sort_group\energy_discrimination\energy_discrimination.cpp' : alignment changed after including header, may be due to missing #pragma pack(pop)
+     1>d:\one drive\onedrive - washington university in st. louis\research\experiment data\poc_pet\calibration\sort_group\energy_discrimination\energy_discrimination.cpp(48): warning C4307: '*' : integral constant overflow
+     1>d:\one drive\onedrive - washington university in st. louis\research\experiment data\poc_pet\calibration\sort_group\energy_discrimination\energy_discrimination.cpp(56): warning C4307: '*' : integral constant overflow
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\one drive\OneDrive - Washington University in St. Louis\Research\experiment data\POC_PET\Calibration\sort_group\Debug\energy_discrimination.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\one drive\OneDrive - Washington University in St. Louis\Research\experiment data\POC_PET\Calibration\sort_group\Debug\energy_discrimination.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\one drive\OneDrive - Washington University in St. Louis\Research\experiment data\POC_PET\Calibration\sort_group\Debug\energy_discrimination.lib" /MACHINE:X86 Debug\energy_discrimination.obj
+         LINK : D:\one drive\OneDrive - Washington University in St. Louis\Research\experiment data\POC_PET\Calibration\sort_group\Debug\energy_discrimination.exe not found or not built by the last incremental link; performing full link
+         energy_discrimination.vcxproj -> D:\one drive\OneDrive - Washington University in St. Louis\Research\experiment data\POC_PET\Calibration\sort_group\Debug\energy_discrimination.exe
+     1>Done Building Project "D:\one drive\OneDrive - Washington University in St. Louis\Research\experiment data\POC_PET\Calibration\sort_group\energy_discrimination\energy_discrimination.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.05
